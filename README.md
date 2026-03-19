@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Full stack engineer</h1>
+<h1 align="center">Hi 👋, I'm Full stack & AI developer</h1>
 
-<img src="assets/header.jpg" align="center" alt="Techtrender header image">
+<img src="assets/header.jpg" align="center" alt="rostislavmiro header image">
 
 -------------------
 &emsp;
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=techietrend&theme=gitdimmed&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rostislavmiro&theme=gitdimmed&column=5" />
 </p>
 
 - 🔭 I’m currently doing and internship at Slack as a Software Engineer. 
@@ -98,19 +98,19 @@
 
 ### 💻 Profile Stats
 
-<img alt="techietrend's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=techietrend&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="techietrend's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techietrend&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="rostislavmiro's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rostislavmiro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="rostislavmiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rostislavmiro&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
 ### 🔥 Streak Stats
 
-![techietrend's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=techietrend&theme=tokyonight)
+![rostislavmiro's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rostislavmiro&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
-<img alt="techietrend's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=techietrend&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="rostislavmiro's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rostislavmiro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <p align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=techietrend" alt="techietrend's Profile View Counter"/>
+<img src="https://komarev.com/ghpvc/?username=rostislavmiro" alt="rostislavmiro's Profile View Counter"/>
 
 </p>
