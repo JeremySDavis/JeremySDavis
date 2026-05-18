@@ -8,15 +8,14 @@
 -------------------
 &emsp;
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeremySDavis&theme=gitdimmed&column=3" />
-</p>
-
 - 🔭 I build scalable full-stack, cloud, and AI-powered applications.
 - 📚 I contribute to developer communities and mentor growing engineers.
 - 🌱 Currently learning Go, observability, distributed systems, and event-driven architecture.
 - 💬 Ask me about AWS, Terraform, TypeScript, backend systems, and SQL/NoSQL databases.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JeremySDavis&theme=gitdimmed&column=3" />
+</p>
 
 &emsp;
 
