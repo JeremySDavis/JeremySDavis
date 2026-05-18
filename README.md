@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Full stack & AI developer</h1>
 
-<img src="assets/header.jpg" align="center" alt="rostislavmiro header image">
-
 -------------------
 &emsp;
 <h3 align="left">Hi 👋, I have extensive experience working in agile environments as a full stack engineer.</h3>
@@ -12,14 +10,13 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rostislavmiro&theme=gitdimmed&column=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JeremySDavis&theme=gitdimmed&column=3" />
 </p>
 
-- 🔭 I’m currently doing and internship at Slack as a Software Engineer. 
-- 📚 In my free time I build things for CodeYourFuture and volunteer as a mentor for students.
-- 🌱 I’m currently learning **GO, Observability & Monitoring of Distributed Systems, Event Driven Systems**
-
-- 💬 Ask me about **AWS, Terraform, TypeScript, SQL/NoSQL Databases**
+- 🔭 I build scalable full-stack, cloud, and AI-powered applications.
+- 📚 I contribute to developer communities and mentor growing engineers.
+- 🌱 Currently learning Go, observability, distributed systems, and event-driven architecture.
+- 💬 Ask me about AWS, Terraform, TypeScript, backend systems, and SQL/NoSQL databases.
 
 &emsp;
 
@@ -81,6 +78,7 @@
 
 ### SRE & DevOps:
 &emsp;
+
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
@@ -91,26 +89,28 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)
 ![Chef](https://img.shields.io/badge/-Chef-000?&logo=Chef)
 
-
 &emsp;
 
 ## 📈 My GitHub Stats and Activity
 
+<!--
+
 ### 💻 Profile Stats
 
-<img alt="rostislavmiro's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=rostislavmiro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="rostislavmiro's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rostislavmiro&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="JeremySDavis's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=JeremySDavis&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="JeremySDavis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremySDavis&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
+-->
 
 ### 🔥 Streak Stats
 
-![rostislavmiro's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=rostislavmiro&theme=tokyonight)
+![JeremySDavis's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=JeremySDavis&theme=tokyonight)
 
 ### 📊 Contribution Stats
 
-<img alt="rostislavmiro's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rostislavmiro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+<img alt="JeremySDavis's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=JeremySDavis&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 <p align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=rostislavmiro" alt="rostislavmiro's Profile View Counter"/>
+<img src="https://komarev.com/ghpvc/?username=JeremySDavis" alt="JeremySDavis's Profile View Counter"/>
 
 </p>
